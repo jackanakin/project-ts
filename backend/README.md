@@ -1,0 +1,4 @@
+## TypeORM
+yarn typeorm migration:create -n CreateAppointments
+yarn typeorm migration:run
+
